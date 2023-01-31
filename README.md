@@ -8,3 +8,5 @@ The second assignment, which consists of 15%, required us to write an essay. "Mo
 guidance on the AI research front"
 
 The last assignment, which consists of 30%, required us to think of an AI application and apply one of the AI Responsible Practices such as Fairness, Private Preservation and Explainability.
+
+Overall Grade: A
