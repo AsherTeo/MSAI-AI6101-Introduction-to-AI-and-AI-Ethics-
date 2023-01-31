@@ -1,6 +1,6 @@
 # MSAI-AI6101-Introduction-to-AI-and-AI-Ethics
 
-There are three assignments in this modulue. 
+There are three assignments in this module.
 
 The first assignment, which consists of 50%, required us to train a model to control the robot(A) to push the box(B) to the destination (G) using reinforment learning. For this assignment, I used Q-learning and SARSA as my solution and further imporve by experimenting Epsilon value and learning rate. To enhance the performance, I make use of adaptive learning rate to prevent overfitting and also experimented Eplsion decay. 
 
